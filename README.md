@@ -1,4 +1,4 @@
-# Cyan Finance
+# Cyan
 
 Buy Now Pay Later for the Metaverse.\
 [Click here](https://www.usecyan.com/) to visit.
